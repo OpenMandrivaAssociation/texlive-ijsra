@@ -1,6 +1,6 @@
 Name:		texlive-ijsra
 Version:	44886
-Release:	1
+Release:	2
 Summary:	LaTeX document class for the International Journal of Student Research in Archaeology
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ijsra
