@@ -3,7 +3,7 @@ Version:	44886
 Release:	2
 Summary:	LaTeX document class for the International Journal of Student Research in Archaeology
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ijsra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ijsra
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ijsra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ijsra.doc.r%{version}.tar.xz
